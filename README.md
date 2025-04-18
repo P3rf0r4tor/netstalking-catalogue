@@ -25,15 +25,15 @@
  * [ultimate-netstalking-guide](https://github.com/pantyusha/ultimate-netstalking-guide/) - советы и ссылки на поисковики, файлообменники.
 
 ### Каналы ТГ
- * [@netstalking_bulletin](https://t.me/netstalking_bulletin) - Доска новостей и объявлений: новые проекты, поиск участников на них, значимые результаты (последний пост за 4.09.2021).
+ * [@netstalking_bulletin](https://t.me/netstalking_bulletin) - Доска новостей и объявлений: новые проекты, поиск участников на них, значимые результаты (последний пост за 4.09.2021)[дамп](https://github.com/P3rf0r4tor/netstalking-catalogue/releases/tag/archives).
 
- * [@netstalking_documents](https://t.me/netstalking_documents) - Документы - подборка основной информации и гайдов по тематике (последний пост за 02.03.2020).
+ * [@netstalking_documents](https://t.me/netstalking_documents) - Документы - подборка основной информации и гайдов по тематике (последний пост за 02.03.2020)[дамп](https://github.com/P3rf0r4tor/netstalking-catalogue/releases/tag/archives).
    
- * [@netstalking_overground](https://t.me/netstalking_overground) - зеркало Оверграунда в ТГ (последний пост 06.09.2021).
+ * [@netstalking_overground](https://t.me/netstalking_overground) - зеркало Оверграунда в ТГ (последний пост 06.09.2021)[дамп](https://github.com/P3rf0r4tor/netstalking-catalogue/releases/tag/archives).
 
  * [@konofound](https://t.me/konofound) - 220 OK, RTSP noauth камеры и прочая открытая (!) прелесть. Канал лишился админ состава в августе 2021 года, [дамп](https://disk.yandex.ru/d/K5yck1bTYgM-mg).
  
- * [Netstalking is our life](https://t.me/netstalkinglife) - Горизонт Событий (Последний пост 03.07.2022).
+ * [Netstalking is our life](https://t.me/netstalkinglife) - Горизонт Событий (Последний пост 03.07.2022)[дамп](https://github.com/P3rf0r4tor/netstalking-catalogue/releases/tag/archives).
 
 
 ### Паблики ВК
